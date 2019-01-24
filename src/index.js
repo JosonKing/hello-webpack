@@ -1,14 +1,9 @@
-import printMe from './print.js';
-import styles from './index.less';
-import { cube } from './math.js';
+import './index.css';
 
 function component() {
   var element = document.createElement('pre');
 
-  element.innerHTML = [
-    'Hello webpack!',
-    'S cubed is equal to ' + cube(5)
-  ].join('\n\n');
+  element.innerHTML = 'Hello webpack!';
 
   return element;
 }
