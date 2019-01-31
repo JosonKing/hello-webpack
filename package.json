@@ -16,6 +16,8 @@
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "style-loader": "^0.23.1",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.2.4",
     "uglifyjs-webpack-plugin": "^2.1.1",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.2.1",
