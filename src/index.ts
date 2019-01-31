@@ -1,5 +1,3 @@
-import './index.css';
-
 function component() {
   var element = document.createElement('pre');
 
